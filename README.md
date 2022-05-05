@@ -1,4 +1,6 @@
-### Hi there 👋
+### 花开一季 叶落一地
+
+是最最可爱的花叶小姐姐！
 
 <!--
 **hjc-owo/hjc-owo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![hjc-owo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjc-owo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjc-owo&count_private=true&hide=html,css&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
